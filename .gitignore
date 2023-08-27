@@ -1,0 +1,6 @@
+virtualenv
+__pycache__/
+*.py[cod]
+bin/
+build/
+dist/
